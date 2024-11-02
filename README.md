@@ -4,3 +4,7 @@ Perform training/generating all through the main_network.py script.
 All results from training and generation will be saved in a new directory named "results_ML".
 
 Example outputs from diffusion:
+
+On the "Moons" dataset from Scikit-Learn:
+
+On the "Dino" dataset from datasets/datasaurus.csv:
