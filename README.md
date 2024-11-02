@@ -3,7 +3,9 @@ This is the code I used for my Barrett Honors Thesis (titled *Diffusion Models f
 Perform training/generating all through the main_network.py script.
 All results from training and generation will be saved in a new directory named "results_ML".
 
-Example outputs from diffusion:
+
+
+**Example outputs from diffusion:**
 
 On the "Moons" dataset from Scikit-Learn:
 ![alt text](https://github.com/justinle4/Diffusion/blob/main/sample_output/scatterplot_timeline_moons.png)
