@@ -3,7 +3,7 @@ This is the code I used for my Barrett Honors Thesis (titled *Diffusion Models f
 Perform training/generating all through the main_network.py script.
 All results from training and generation will be saved in a new directory named "results_ML".
 
-
+<br />
 
 **Example outputs from diffusion:**
 
