@@ -5,7 +5,7 @@ All results from training and generation will be saved in a new directory named 
 
 <br />
 
-**Example outputs from diffusion:**
+**Examples of the reverse diffusion process:**
 
 On the "Moons" dataset from Scikit-Learn:
 ![alt text](https://github.com/justinle4/Diffusion/blob/main/sample_output/scatterplot_timeline_moons.png)
