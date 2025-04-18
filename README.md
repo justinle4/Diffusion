@@ -1,0 +1,4 @@
+Design, train, and perform inference with diffusion models
+This is the code used for my undergraduate honors thesis entitled _Diffusion Models to Alleviate Class Imbalance_ during my senior year at Arizona State University
+and the article _Generative Modeling with Diffusion_ submitted to [SIURO](https://www.siam.org/publications/siam-journals/siam-undergraduate-research-online-siuro/) (arXiv link [here](https://arxiv.org/abs/2412.10948)).
+Train diffusion models through main_network.py, and see UMAP_and_Classification.ipynb for a walkthrough of the creditcard dataset and comparing classifiers with different modes of data augmentation.
