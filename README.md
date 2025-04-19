@@ -8,5 +8,5 @@ Examples of reverse diffusion process:
 On the make_moons dataset from Scikit-learn:
 ![Alt text](https://github.com/justinle4/Diffusion/blob/main/reverse_diffusion_examples/scatterplot_timeline_moons.png)
 
-On the datasaurus dataset from datasets/datasaurus.csv:
+On the Datasaurus dataset from datasets/datasaurus.csv:
 ![Alt text](https://github.com/justinle4/Diffusion/blob/main/reverse_diffusion_examples/scatterplot_timeline_datasaurus.png)
